@@ -1,15 +1,15 @@
 
 # Hi, I'm Shreyas Shivaji Kamble 👋
 
-Final-year Computer Engineering student passionate about building reliable software, web applications, and embedded systems. Focused on Java, React, and IoT-driven solutions.
+Final-year Computer Engineering student passionate about building reliable software, web applications. Focused on Java, Html, Css, JavaScript, React, and Node.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-- **Languages:** Java, C++, JavaScript (ES6+), HTML5, CSS3, SQL
+- **Languages:** Java, C++, JavaScript, HTML, CSS3, SQL
 - **Frontend & Backend:** React.js, Node.js, Express
-- **Tools & Platforms:** Git, GitHub, VS Code, Antigravity IDE
+- **Tools & Platforms:** Git, GitHub, VS Code, Antigravity
 
 ---
 
