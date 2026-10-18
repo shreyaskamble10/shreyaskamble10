@@ -7,7 +7,7 @@ Final-year Computer Engineering student passionate about building reliable softw
 
 ### 💻 Tech Stack & Tools
 
-- **Languages:** Java, JavaScript, HTML, CSS, SQL
+- **Languages:** Java, HTML, CSS, JavaScript. 
 - **Frontend & Backend:** React.js, Node.js, Express, SQL
 - **Tools & Platforms:** Git, GitHub, VS Code, Antigravity
 
